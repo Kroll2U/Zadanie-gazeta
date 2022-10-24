@@ -1,0 +1,75 @@
+
+h2 {
+    color: gold;
+}
+h3 {
+    color: darkblue;
+}
+body {
+
+    padding: 15px;
+    margin: 0;
+    letter-spacing: 2px;
+}
+.container {
+
+     font-size: 20px;
+    text-align: justify;
+    line-height: 35px;
+    columns: 250px 4;
+    column-gap: 40px;
+}
+
+
+img {
+    width: 200px 200px;
+}
+
+
+
+
+.box {
+    border-right: 5px solid black;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border: 3px;
+    border-color: rgb(8, 5, 5);
+    border-style: solid;
+float: left;
+   
+}
+
+hr {
+    color: gold;
+}
+
+
+
+.dopiska {
+    position: relative;
+    color: white;
+    inline-size: 100%;
+    transform: rotate(90deg);
+    font-size: 40px;
+    padding-left: 100%;
+    width: 200px 200px;
+    background-color: orange;
+  }
+  
+
+p.góra {
+    height: 90%;
+    font-size: 30px;
+    color: red;
+    
+
+}
+footer {
+    padding-left: 90%;
+    color: goldenrod;
+
+}
+
+
